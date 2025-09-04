@@ -19,37 +19,37 @@ No trabalho, os ponteiros foram usados para acessar valores, percorrer vetores e
 
 ## 📝 Questões resolvidas
 
-### **1 – Cofrinho**
+### **1 – Cofrinho** :white_check_mark:
 - Declarar uma variável inteira representando um valor.
 - Usar ponteiro para exibir o valor e seu endereço na memória.
 
-### **2 – Idade do aluno**
+### **2 – Idade do aluno**:white_check_mark:
 - Ler a idade digitada pelo usuário.
 - Imprimir valor e endereço usando ponteiro.
 
-### **3 – Preços de produtos**
+### **3 – Preços de produtos**:white_check_mark:
 - Armazenar preços de 5 produtos em um vetor.
 - Usar ponteiros e laço `for` para:
   - Mostrar os preços originais.
   - Calcular e exibir os preços com **10% de desconto**.
 
-### **4 – Horas trabalhadas**
+### **4 – Horas trabalhadas**:x:
 - Armazenar horas de trabalho em um vetor de tamanho `n` informado pelo usuário.
 - Preencher o vetor com ponteiros.
 - Calcular o total de horas trabalhadas no mês.
 
-### **5 – Notas dos alunos**
+### **5 – Notas dos alunos**:white_check_mark:
 - Armazenar notas de 6 alunos em um vetor.
 - Usar ponteiros para **inverter a ordem** do vetor.
 - Exibir o vetor invertido.
 
-### **6 – Notas em uma matriz 3x3**
+### **6 – Notas em uma matriz 3x3**:white_check_mark:
 - Armazenar as notas de 3 provas de 3 alunos em uma matriz 3x3.
 - Usar apenas ponteiros para:
   - Mostrar todas as notas.
   - Calcular a soma da **diagonal principal**.
 
-### **7 – Pontuação no vôlei (matriz 4x4)**
+### **7 – Pontuação no vôlei (matriz 4x4)**:white_check_mark:
 - Matriz representa pontos de 4 jogadores em 4 sets.
 - Funcionalidades implementadas com ponteiros:
   - Mostrar todos os valores da matriz.
